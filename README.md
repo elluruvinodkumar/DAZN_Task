@@ -1,7 +1,9 @@
 # DAZN_Task
 
 #Run app in local
+
 npm install
+
 npm start
 
 # Use the below curl commands to do Create , Read , Update and Delete operations on Movies collection.
